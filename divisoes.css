@@ -1,0 +1,62 @@
+.cabecalio{ 
+    color: white;
+    width: 600px;
+    padding: 10px;
+    background-color: gray;
+    font-size: 24px;
+    margin: 2px;
+}
+.corpo{
+    display: flex;
+    color: blue;
+    width: 600px;
+    padding: 10px;
+    background-color: red;
+    font-size: 20px;
+    text-align: center;
+}
+.rodape{
+    color: white;
+    width: 600px;
+    padding: 10px;
+    background-color: blue;
+    font-size: 10px;
+    text-align: center;
+}
+.cursos{
+    display: flex;
+    color: black;
+    width: 600px;
+    padding: 10px;
+    background-color: red;
+    font-size: 18px;
+    text-align: justify;
+}
+.info{
+    color: black;
+    width: 600px;
+    padding: 10px;
+    background-color: violet;
+    font-size: 18px;
+}
+.adm{
+    color: black;
+    width: 600px;
+    padding: 10px;
+    background-color: aqua;
+    font-size: 18px;
+}
+.ds{
+    color: black;
+    width: 600px;
+    padding: 10px;
+    background-color: rebeccapurple;
+    font-size: 18px;
+}
+.ele{
+    color: black;
+    width: 600px;
+    padding: 10px;
+    background-color: darkcyan;
+    font-size: 18px;
+}
