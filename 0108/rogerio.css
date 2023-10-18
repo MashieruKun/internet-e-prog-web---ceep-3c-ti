@@ -1,0 +1,13 @@
+.table{
+    align-self: center;
+}
+.a{
+    background-color: brown;
+}
+td{
+    border: 2px;
+    border-style: dashed;
+    border-color: hotpink;
+    text-align: center;
+    background-color: darkcyan;
+}
