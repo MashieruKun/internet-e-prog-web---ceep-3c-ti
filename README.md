@@ -1,2 +1,3 @@
 # internet
-projetos feitos na aula de internete programação de web 
+projetos feitos na aula de internet e programação de web 
+alteraçao pelo git
